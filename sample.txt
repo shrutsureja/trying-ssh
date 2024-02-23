@@ -4,3 +4,5 @@ this is from the terminal to check for the sighned commit
 - try 1 X
 - try 2 DONE with git commit -S -m
 - try 3 DONE 
+
+-try 4 with the gitbutler
