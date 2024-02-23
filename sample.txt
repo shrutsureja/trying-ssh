@@ -1,0 +1,4 @@
+FROM THE TERMINAL
+this is from the terminal to check for the sighned commit 
+
+- try 1
