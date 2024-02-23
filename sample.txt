@@ -2,5 +2,5 @@ FROM THE TERMINAL
 this is from the terminal to check for the sighned commit 
 
 - try 1 X
-- try 2 DONE 
-- try 3
+- try 2 DONE with git commit -S -m
+- try 3 DONE 
